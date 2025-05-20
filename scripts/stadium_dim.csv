@@ -1,0 +1,128 @@
+VenueID,Name,City,Capacity,Surface,Address
+5,Stade du 5 Juillet 1962,Algiers,80200,grass,"Lotissement Benhadaddi, Villa 12B, Chéraga"
+121,Vazgen Sargsyan anvan Hanrapetakan Marzadasht,Yerevan,14530,grass,ul. Nar-Dos
+130,Sky Stadium,Wellington,37034,grass,Waterloo Quay
+197,Stade de l'Amitié,Cotonou,35000,grass,RN3
+306,Stade du 4 Août,Ouagadougou,60000,grass,Rue 9.04
+308,Stade Omnisport Ahmadou Ahidjo,Yaoundé,38509,grass,
+312,BMO Field,"Toronto, Ontario",36045,grass,170 Princes’ Boulevard
+314,Estádio Nacional de Cabo Verde,Praia,15000,artificial turf,"Monte Vaca, Achada São Filipe"
+315,Stade Barthélemy Boganda,Bangui,20000,grass,Avenue de France
+316,Estadio Nacional Julio Martínez Prádanos,Santiago de Chile,48665,grass,"Avenida Grecia 2001, Ñuñoa"
+391,Stade des Martyrs de la Pentecôte,Kinshasa,100000,artificial turf,"Boulevard Triomphal, Lingwala"
+392,Estadio Nacional de Costa Rica,San José,35100,grass,"Avenida Las Americas, La Sabana"
+411,Stade Félix Houphouët-Boigny,Abidjan,45000,grass,"Boulevard Lagunaire, Le Plateau"
+432,Neo GSP,Levkosía,22859,grass,"Pangkiprion Avenue, Strovolos"
+489,Wembley Stadium,London,90000,grass,"Stadium Way, Wembley, Brent"
+604,Nuevo Estadio de Malabo,Malabo,15250,grass,Atepa
+605,A. Le Coq Arena,Tallinn,14405,grass,Asula 4c
+689,Independence Stadium,Bakau,25000,grass,
+691,Boris Paichadze Dinamo Arena,Tbilisi,54202,grass,"2, Akaki Tsereteli Ave."
+761,Olympiako Stadio Spyros Louis,Athens,71030,grass,"37 Kifissias Avenue, Maroussi"
+785,Stade du 28 Septembre,Conakry,35000,grass,Route de Donka
+819,Laugardalsvöllur,Reykjavík,15427,grass,Reykjavegur
+832,Jawaharlal Nehru Stadium,New Delhi,78000,grass,"Jawaharlal Nehru Stadium Marg, Lodi Estate"
+845,Azadi Stadium,Teheran,100000,grass,Azadi Stadium Boulevard
+951,National Olympic Stadium,Tokyo,57363,grass,"10-2, Kasumigaoka-machi, Shinjuku"
+988,Amman International Stadium,Amman,25000,grass,
+989,Astana Arena,Astana,30254,artificial turf,ul. Kabanbai Batyr 45
+992,Nyayo National Stadium,Nairobi,30000,grass,Langata Road / Mombasa Road
+1001,Rŭngrado May First Stadium,Pyongyang,150000,grass,
+1002,Seoul World Cup Stadium,Seoul,68476,grass,"515 Seongsan-dong, Mapo-gu, Sangam"
+1025,Camille Chamoun Sports City Stadium,Beirut,48837,grass,"Hafez El-Asad Street, Bir Hassan"
+1064,Stade 26 Mars,Bamako,55000,grass,"RN6, Sokorodj"
+1068,Stade Olympique de Nouakchott,Nouakchott,40000,artificial turf,Rue de l&apos;Ambassade du Sénégal
+1069,Estadio Azteca,D.F.,106187,grass,"Calzada de Tlalpan 3665, Coyoacán"
+1095,Stadion Pod Goricom,Podgorica,15230,grass,ul. Vaka Đurovića bb 2
+1099,Stade Mohamed V,Casablanca,45891,grass,"Rue Ali Abderrazak, Bouskoura, Maarif"
+1167,Stade Général Seyni Kountché,Niamey,35000,grass,Boulevard du Zarmaganda &amp; Avenue du Mali Bero
+1168,Abuja National Stadium,Abuja,60491,grass,"Independence Avenue, Kukwaba"
+1205,Sultan Qaboos Sport Complex,Muscat,39000,grass,"Al-Ghubbrah Street, Boshar"
+1207,Estadio Rommel Fernández Gutiérrez,Ciudad de Panamá,45000,grass,Avenida José Agustin Arango
+1245,Stadion Narodowy,Warszawa,58145,grass,Aleja Księcia J. Poniatowskiego 1
+1326,Arena Naţională,Bucureşti,55611,grass,Bulevardul Basarabia 37-39
+1327,RZD Arena,Moskva,28800,grass,ul. Bol&apos;shaya Cherkizovskaya 125
+1357,Stade Amahoro,Kigali,30000,grass,Gasabo
+1361,King Fahd International Stadium,Riyadh,68752,grass,Al-Amir Bandar Ibn Abdul Aziz Street
+1405,Stade Léopold Sédar Senghor,Dakar,80000,grass,Route de l’Aéroport de Yoff
+1442,Stadion Stožice,Ljubljana,16432,grass,
+1499,Al-Merreikh Stadium,Omdurman,43645,artificial turf,Al-Baladiyya Street
+1530,St. Jakob-Park,Basel,38512,grass,Sankt Jakob-Strasse 395
+1545,Rheinpark Stadion,Vaduz,7838,grass,Lettstrasse 74
+1550,Benjamin Mkapa National Stadium,Dar-es-Salaam,60000,artificial turf,Taifa Road
+1551,Rajamangala National Stadium,Bangkok,55000,grass,"24 Ramkhamhaeng Street, Hua Mak, Bang Kapi"
+1648,Milliy Stadion,Tashkent,34000,grass,Bunyodkor Avenue
+1649,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,40000,grass,Avenida España
+1650,Estadio Ricardo Tulio Maya,Ciudad Bolívar,5000,grass,La Paragua
+1651,Estadio Olímpico Hermanos Ghersi Páez,Maracay,20000,grass,"Calle Campo Elías, Barrio La Democracia"
+1652,Estadio Ramón Gato Hernández,El Vigía,12785,grass,Avenida Ramón Hernández
+1653,Estadio Olímpico de la UCV,Caracas,23940,grass,"Avenida Los Mangos, Los Chaguaramos"
+1658,Estadio Olímpico Rafael Calles Pinto,Guanare,13000,grass,"Complejo Ferial José Antonio Páez, Urbanización Hato Modelo"
+1659,CTE Cachamay,Ciudad Guayana,45600,grass,"Avenida Guayana, Puerto Ordaz"
+1662,Estadio José Alberto Pérez,Valera,12765,grass,"Avenida Las Ferias, El Valle de San Luis"
+1688,Konkola Stadium,Chililabombwe,15000,grass,
+1689,National Sports Stadium,Harare,60000,grass,Golden Quarry Road
+1710,Estadio Bicentenario de Ureña (Nueva Arcadia),Ureña,4500,artificial turf,"Calle 4, Junta Parroquial, Aguas Calientes"
+1813,Stadiumi Fadil Vokrri,Pristina,13500,grass,
+1912,Stadion Vasil Levski,Sofia,43632,grass,bul. Evlogi Georgiev 38
+1968,Atatürk Olimpiyat Stadı,İstanbul,76092,grass,"Atatürk Olimpiyat Stadı Otoparkı, İkitelli"
+1969,Principality Stadium,Caerdydd,74500,grass,Westgate Street
+1970,Aviva Stadium,Dublin,55359,grass,"62 Lansdowne Road, Ballsbridge"
+1971,Windsor Park,Belfast,18614,grass,Donegall Avenue
+1976,Independence Park,Kingston,35000,grass,"Arthur Wint Drive, Edens Park"
+2186,Stadion Bilino Polje,Zenica,15292,grass,Bulevar Kulina Bana bb
+2606,Stadyen Dynama,Minsk,41024,grass,ul. Kirova 8/2
+2607,Bakı Olimpiya Stadionu,Baku,68700,grass,Boyuk Shor
+2608,Helsingin olympiastadion,Helsingfors,40682,grass,Paavo Nurmen Tie 1
+2609,Tórsvøllur,"Tórshavn, Streymoy",6040,grass,R.C. Effersøes gata
+2610,National Stadium Ramat Gan,Ramat Gan,41583,grass,"26 Bugrashov Street, Ramat Gan"
+2611,Stadions Skonto,Riga,8207,grass,Emīla Melngaiļa 1a
+2612,S. Dariaus ir S. Girėno stadionas,Kaunas,15315,grass,Ąžuolyno gatvė
+2614,Ta'Qali National Stadium,Ta&apos;Qali,17797,grass,Villagg Tas-Snajja&apos;
+2615,Stadionul Zimbru,Chişinău,10500,grass,"Bulevardul Dacia, nr. 45"
+2617,Hampden Park,Glasgow,52500,grass,Letherby Drive
+2618,Estadi Nacional,Andorra la Vella,3306,grass,C/ Baixada del Molí nº33
+2855,Robert F. Kennedy Memorial Stadium,"Washington, District of Columbia",56692,grass,2400 East Capitol Street Southeast
+2856,Stade Sylvio Cator,Port-au-Prince,15000,grass,Rue O. Durand
+3284,Estadio Cuscatlán,San Salvador,45925,grass,Calle Antigua a Huizucar
+3385,Hong Kong Stadium,Hong Kong,40000,grass,"55 Eastern Hospital Road, So Kon Po, Wanchai"
+3501,Estadio Nacional de Fútbol (UNAN),Managua,15000,artificial turf,Pista de La Unan
+3611,Macau Olympic Complex Stadium,Taipa,16272,grass,Avenida do Estádio
+3896,Dashrath Rangasala,Kathmandu,25000,grass,"Kantipath Road, Tripureshwor"
+3901,Estadio Nacional Mateo Flores,Ciudad de Guatemala,29950,grass,11 Avenida
+3904,Sugathadasa Stadium,Colombo,28000,grass,Cyril C Perera Road
+3905,Hasely Crawford Stadium,Port of Spain,27000,grass,"Wrightson Road, Mucurapo"
+4149,Ghazi Stadium,Kabul,25000,artificial turf,
+4152,Wildey Turf (Sir Garfield Sobers Complex),Bridgetown,2000,artificial turf,"Wildey, St. Michael"
+4154,Windsor Park Stadium,Roseau,12000,grass,Bath Road / Valley Road
+4158,Warner Park Football Stadium,Basseterre,5000,grass,Victoria Road
+4159,Stadion Nasional Timor Leste,Dili,5000,grass,
+4160,Estadio Juán Rámon Loubriel,Bayamón,22000,grass,Route 2 &amp; Route 5
+4162,Arnos Vale Ground,Kingstown,18000,grass,Arnos Vale
+5773,James Ronald Webster Park,The Valley,4000,grass,The Valley Road
+5789,A.O. Shirley Recreation Ground,Road Town,1500,grass,Waterfront Drive
+7558,Estadio Alexander Comanche Bottini,,8000,grass,
+11600,Parken,København,38065,grass,Øster Allé 50
+11602,CITY ARENA – Štadión Antona Malatinského,Trnava,19200,grass,ul. Športová 1
+11603,Ullevaal Stadion,Oslo,27182,grass,Sognsveien 75
+19208,Estadio José de la Paz Herrera Uclés,Tegucigalpa,35000,grass,"1A Avenida, Barrio Morazán"
+19604,Stade de Luxembourg,Luxembourg,9386,grass,E25
+19605,Puskás Aréna,Budapest,67889,grass,Dózsa György út 5
+19627,Estadio Otto Bueno,Coro,5000,grass,
+19656,National Football Stadium (Maldives),"Malé, North Malé Atoll, Kaafu Atoll",11850,grass,Majeedhee Magu
+19696,Bukit Jalil National Stadium,Kuala Lumpur,87411,grass,"Jalan Merah Cagar, Bukit Jalil"
+19758,Stadion Ergilio Hato,Willemstad,10000,grass,"Corrieweg / Bonamweg 49, Brievengat"
+19759,Kirani James National Stadium,St. George&apos;s,10000,grass,Queens&apos; Park Road
+20114,NSK Olimpiiskyi,Kyiv,70050,grass,vul. Velyka Vasylkivska 55
+20324,Olympic Stadium,Phnom Penh,70000,artificial turf,Monireth Boulevard
+20365,Stade Kianja Barea Mahamasina,Antananarivo,40880,grass,Lalana Rajoelina
+21117,Estádio do Marítimo,Ilha da Madeira,10932,grass,Rua do Dr. Pita
+21410,Accra Sports Stadium,Accra,35000,grass,Malam Awudu Road
+21411,Strawberry Arena,Solna,54329,grass,Råsta Strandväg 1
+21412,Stade olympique Hammadi-Agrebi,Radès,65000,grass,Cité Olympique du 7 novembre
+21413,Sân vận động quốc gia Mỹ Đình (Mỹ Đình National Stadium),Hanoi,40192,grass,Từ Liêm
+21415,National Stadium,Singapore,55000,grass,"1 Stadium Drive, Kallang"
+21416,Republican Central Stadium,Dushanbe,24000,artificial turf,Ismoil Somoni Avenue
+21438,Lao National Stadium KM16,Vientiane,25000,grass,"Avenue Kaysone Phomvihane, KM16, Anou"
+21730,Estadio de fútbol Francisco Massiani,Puerto la Cruz,5000,grass,
+21731,Estadio Decanato UDO Bolívar,Bolívar,1500,grass,
